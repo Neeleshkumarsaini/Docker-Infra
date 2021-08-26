@@ -15,3 +15,7 @@ WORK FLOW FOR DOCKER INFRA :-
 REQUIREMENTS :-
  -> Redhat linux OS
  -> Internet Connectivity 
+ 
+![Capture2](https://user-images.githubusercontent.com/46334962/130914810-94d2c805-9ed1-4a23-bf16-4f6aaffa2ee2.PNG)
+
+![Capture4](https://user-images.githubusercontent.com/46334962/130914842-3b630abb-dd97-4070-abd9-53aa636fd2da.PNG)
